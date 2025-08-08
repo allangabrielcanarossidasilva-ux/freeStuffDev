@@ -1,4 +1,4 @@
----
+-hwnwniQl pais é esseMILA54ABAI1TDFG4V3EZJ8ATMILA5QIFDQOXMILA5A7ZD3VZ--
 title: Android Studio
 link: https://developer.android.com/studio
 thumbnail: https://img.icons8.com/color/344/android-studio--v3.png
